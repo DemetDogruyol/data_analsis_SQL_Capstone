@@ -1,5 +1,3 @@
-# Creating the README.md file with the provided content.
-readme_content = """
 ## SQL Database Project
 
 This project contains a SQL database schema based on an Entity-Relationship Diagram (ERD) visualized for managing business data like customers, orders, products, suppliers, and employees. The project includes SQL queries for data retrieval, insertion, and manipulation using this schema.
